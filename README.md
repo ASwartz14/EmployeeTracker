@@ -21,7 +21,7 @@ An employee management system. I used inquirer to prompt questions to be answere
 
 ## Visuals
 
-![EmployeeTracker]
+![EmployeeTracker](<https://github.com/ASwartz14/EmployeeTracker/blob/master/assets/ezgif.com-gif-maker%20(5).gif>)
 
 ## Installation
 
